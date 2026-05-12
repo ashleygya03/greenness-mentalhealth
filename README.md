@@ -19,19 +19,19 @@ Park-related variables did not independently predict mental distress once struct
 
 project-folder/
 │
-├── dataset/
+├── data/
 │   ├── raw/
-│   
+│
 ├── figures/
 │
 ├── notebooks/
 │   └── CapstoneProject.ipynb
 │
 ├── report/
-│   └── Greenness, Parks, and Mental Distress in Washington, DC.pdf
+│   └── Greenness_Parks_and_Mental_Distress_DC.pdf
 │
 ├── README.md
-├── requirements.txt
+├── requirements.txtt
 
 ## Datasets Used 
 | Dataset | Purpose | Source |
