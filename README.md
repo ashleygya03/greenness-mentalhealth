@@ -20,8 +20,7 @@ Park-related variables did not independently predict mental distress once struct
 project-folder/
 │
 ├── data/
-│   ├── raw/
-│   └── processed/
+│   └── raw/
 │
 ├── figures/
 │
