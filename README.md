@@ -22,7 +22,6 @@ project-folder/
 ├── dataset/
 │   ├── raw/
 │   
-│
 ├── figures/
 │
 ├── notebooks/
