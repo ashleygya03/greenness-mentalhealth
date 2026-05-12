@@ -21,6 +21,7 @@ project-folder/
 │
 ├── data/
 │   ├── raw/
+│   └── processed/
 │
 ├── figures/
 │
@@ -31,7 +32,7 @@ project-folder/
 │   └── Greenness_Parks_and_Mental_Distress_DC.pdf
 │
 ├── README.md
-├── requirements.txtt
+├── requirements.txt
 
 ## Datasets Used 
 | Dataset | Purpose | Source |
